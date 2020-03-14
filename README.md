@@ -1,8 +1,8 @@
-# Screen Art
+# Snek
 
 ## What is it?
 
-Fills your screen with randomly coloured squares!
+The classic Snake game. More info on [Wikipedia](https://en.wikipedia.org/wiki/Snake_(video_game_genre)).
 
 ## Example
 
